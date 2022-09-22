@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9175d848-3f69-4972-b4d3-8ba7e9ef7304" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/binarysearchnorecursion/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dac/Hanoitower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/floyd/FloydAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/greedy/GreedyAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/horse/HorseChessboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kmp/KMPAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kmp/ViolenceMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kruskal/KruskalCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/avl/AVLTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/binarysorttree/BinarySortTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/hashtab/HashTabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/huffmancode/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/huffmantree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/Josepfu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/queue/CircleArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/Queue8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/RecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/reversepolishcal/ReversePolishMultiCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/MergetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sparsearray/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/array/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/array/src/main/java/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/BookNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/CircleSinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/GoodNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/CircleSinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/DoubleLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/maze/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/maze/src/main/java/MazeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/maze/src/main/java/Queen8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/queue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/queue/src/main/java/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/queue/src/test/java/ArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/BasicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/BubblingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/SelectSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2F76MbokAlip2MjKDQ1GqsiIQqq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/4/java/DataStructure/DataStructures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.1567623",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\4\java\DataStructure\DataStructures\src\main\java\Test" />
+      <recent name="C:\Users\Dell\Desktop\4\java\DataStructure\Algorithm\src\main\java\Test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\4\java\DataStructure\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchNoRecur">
+    <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.binarysearchnorecursion.BinarySearchNoRecur" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.binarysearchnorecursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.sort.InsertSort" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Josepfu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.linkedlist.Josepfu" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.sort.QuickSort" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.sort.SelectSort" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchNoRecur" />
+        <item itemvalue="Application.Josepfu" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.InsertSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9175d848-3f69-4972-b4d3-8ba7e9ef7304" name="Changes" comment="" />
+      <created>1663830727556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663830727556</updated>
+      <workItem from="1663830728802" duration="1974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
