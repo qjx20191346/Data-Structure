@@ -5,79 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9175d848-3f69-4972-b4d3-8ba7e9ef7304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/binarysearchnorecursion/BinarySearchNoRecur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dac/Hanoitower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/floyd/FloydAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/greedy/GreedyAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/horse/HorseChessboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kmp/KMPAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kmp/ViolenceMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/kruskal/KruskalCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Test/prim/PrimAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/avl/AVLTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/binarysorttree/BinarySortTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/hashtab/HashTabDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/huffmancode/HuffmanCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/huffmantree/HuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/Josepfu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/linkedlist/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/MiGong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/Queue8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/recursion/RecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/reversepolishcal/ReversePolishMultiCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/FibonacciSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/InsertValueSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/search/SeqSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/MergetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/sparsearray/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/stack/PolandNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/ArrBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/src/main/java/Test/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/array/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/array/src/main/java/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/BookNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/CircleSinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/GoodNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/main/java/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/CircleSinglyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/DoubleLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/linked/src/test/java/SinglyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/maze/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/maze/src/main/java/MazeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/maze/src/main/java/Queen8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/queue/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/queue/src/main/java/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/queue/src/test/java/ArrayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/BasicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/BubblingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/sort/src/main/java/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +32,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="E:/Maven/apache-maven-3.8.5" />
+        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.5\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -227,6 +159,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663830727556</updated>
       <workItem from="1663830728802" duration="1974000" />
+      <workItem from="1663837051244" duration="14000" />
+      <workItem from="1663837067806" duration="311000" />
     </task>
     <servers />
   </component>
