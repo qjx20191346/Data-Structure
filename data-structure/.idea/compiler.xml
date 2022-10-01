@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BinarySortTree" />
+        <module name="stack" />
+        <module name="select" />
+        <module name="AvlTreeDemo" />
+        <module name="sort" />
+        <module name="maze" />
+        <module name="Algorithm" />
+        <module name="graph" />
+        <module name="Hash-Table" />
+        <module name="array" />
+        <module name="Tree" />
+        <module name="queue" />
+        <module name="linked" />
+        <module name="AvlTree" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

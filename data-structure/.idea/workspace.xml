@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf117ef-471c-41af-9863-624baff06136" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Divide_and_Conquer/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/KMP/KmpAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/KMP/ViolenceMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/binarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/binarySearch/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AvlTree/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AvlTree/src/main/java/AvlTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AvlTreeDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySortTree/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySortTree/src/main/java/BinarySortTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash-Table/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/StudentLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash-Table/src/test/java/HashTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/ArrayBinaryTree/ArrayBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/BinaryTree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/Heap/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/HuffmanTree/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/HuffmanTree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/ThreadedBinaryTree/ThreadBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/src/main/java/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/src/main/java/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/src/main/java/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/src/main/java/InsertSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/src/main/java/LinearSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/main/java/MSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2Et1OtUkkkHtu3yO3v0fEuvkTQi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Desktop/4/java/data-structure&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.1567623&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\4\java\data-structure\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KmpAlgorithm">
+    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divide_and_Conquer.HanoiTower" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Divide_and_Conquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KmpAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMP.KmpAlgorithm" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KMP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnapsackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.KnapsackProblem" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViolenceMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMP.ViolenceMatch" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KMP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarySearch.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.BinarySearch" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="data-structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="stack" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KmpAlgorithm" />
+        <item itemvalue="Application.ViolenceMatch" />
+        <item itemvalue="Application.KnapsackProblem" />
+        <item itemvalue="Application.HanoiTower" />
+        <item itemvalue="Application.binarySearch.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf117ef-471c-41af-9863-624baff06136" name="Changes" comment="" />
+      <created>1663400037651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663400037651</updated>
+      <workItem from="1663400038851" duration="10199000" />
+      <workItem from="1663423675196" duration="302000" />
+      <workItem from="1663424147864" duration="1187000" />
+      <workItem from="1663467426487" duration="6006000" />
+      <workItem from="1663488402970" duration="7508000" />
+      <workItem from="1663508022141" duration="1077000" />
+      <workItem from="1663569383804" duration="6487000" />
+      <workItem from="1663587274054" duration="7827000" />
+      <workItem from="1663636293024" duration="11417000" />
+      <workItem from="1663676636740" duration="3880000" />
+      <workItem from="1663724478978" duration="1817000" />
+      <workItem from="1663764776933" duration="3450000" />
+      <workItem from="1663825203490" duration="4027000" />
+      <workItem from="1663829944553" duration="330000" />
+      <workItem from="1663830618808" duration="91000" />
+      <workItem from="1663832721975" duration="2825000" />
+      <workItem from="1663837248461" duration="1750000" />
+      <workItem from="1663851977646" duration="3236000" />
+      <workItem from="1663894463276" duration="8414000" />
+      <workItem from="1663915180707" duration="7639000" />
+      <workItem from="1664002050694" duration="8833000" />
+      <workItem from="1664068247256" duration="3244000" />
+      <workItem from="1664085322840" duration="7521000" />
+      <workItem from="1664113027053" duration="596000" />
+      <workItem from="1664152762520" duration="3607000" />
+      <workItem from="1664171693065" duration="8591000" />
+      <workItem from="1664195583246" duration="3478000" />
+      <workItem from="1664261553066" duration="9360000" />
+      <workItem from="1664282877895" duration="4186000" />
+      <workItem from="1664326464299" duration="3625000" />
+      <workItem from="1664349024175" duration="8192000" />
+      <workItem from="1664370634078" duration="2665000" />
+      <workItem from="1664419261309" duration="3999000" />
+      <workItem from="1664433504069" duration="4193000" />
+      <workItem from="1664456997250" duration="4217000" />
+      <workItem from="1664505066739" duration="4741000" />
+      <workItem from="1664587069121" duration="5425000" />
+      <workItem from="1664606974459" duration="7886000" />
+      <workItem from="1664630153366" duration="1293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
