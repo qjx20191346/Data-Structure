@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf117ef-471c-41af-9863-624baff06136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Divide_and_Conquer/HanoiTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/KMP/KmpAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/KMP/ViolenceMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/binarySearch/BinarySearchNoRecur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AvlTree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AvlTree/src/main/java/AvlTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AvlTreeDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySortTree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySortTree/src/main/java/BinarySortTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/src/main/java/StudentLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/src/test/java/HashTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/ArrayBinaryTree/ArrayBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/BinaryTree/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/Heap/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/HuffmanTree/HuffmanCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/HuffmanTree/HuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/main/java/ThreadedBinaryTree/ThreadBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/src/main/java/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/src/main/java/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/src/main/java/FibonacciSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/src/main/java/InsertSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/src/main/java/LinearSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/main/java/MSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Kruskal/KruskalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/Prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/greedy/GreedyAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +73,13 @@
       <recent name="C:\Users\Dell\Desktop\4\java\data-structure\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KmpAlgorithm">
-    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divide_and_Conquer.HanoiTower" />
+  <component name="RunManager" selected="Application.PrimAlgorithm">
+    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.GreedyAlgorithm" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Divide_and_Conquer.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prim.PrimAlgorithm" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ViolenceMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KMP.ViolenceMatch" />
       <module name="Algorithm" />
@@ -150,13 +135,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="binarySearch.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.BinarySearch" />
-      <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimAlgorithm" />
+        <item itemvalue="Application.GreedyAlgorithm" />
         <item itemvalue="Application.KmpAlgorithm" />
         <item itemvalue="Application.ViolenceMatch" />
         <item itemvalue="Application.KnapsackProblem" />
-        <item itemvalue="Application.HanoiTower" />
-        <item itemvalue="Application.binarySearch.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +208,10 @@
       <workItem from="1664505066739" duration="4741000" />
       <workItem from="1664587069121" duration="5425000" />
       <workItem from="1664606974459" duration="7886000" />
-      <workItem from="1664630153366" duration="1293000" />
+      <workItem from="1664630153366" duration="2091000" />
+      <workItem from="1664671260370" duration="8267000" />
+      <workItem from="1664692240587" duration="7908000" />
+      <workItem from="1664717228854" duration="1282000" />
     </task>
     <servers />
   </component>
